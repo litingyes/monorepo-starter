@@ -15,6 +15,7 @@ A starter template for monorepo repository
 
 - README.md
 - LICENSE
+- CHANGELOG.md
 - package.json
   - name
   - description
