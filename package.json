@@ -24,6 +24,7 @@
     "commit": "git-cz",
     "prerelease": "pnpm build",
     "release": "bumpp",
+    "changelogen": "changelogen -r $npm_package_version --output",
     "prepare": "husky"
   },
   "devDependencies": {
@@ -33,6 +34,7 @@
     "@commitlint/cz-commitlint": "^19.6.1",
     "@types/node": "22",
     "bumpp": "^10.2.0",
+    "changelogen": "^0.6.2",
     "commitizen": "^4.3.1",
     "eslint": "^9.18.0",
     "eslint-plugin-format": "^1.0.1",
