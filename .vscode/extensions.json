@@ -6,6 +6,7 @@
     "pmneo.tsimporter",
     "christian-kohler.path-intellisense",
     "streetsidesoftware.code-spell-checker",
-    "vitest.explorer"
+    "vitest.explorer",
+    "njzy.pnpm-catalog-lens-njzy"
   ]
 }
